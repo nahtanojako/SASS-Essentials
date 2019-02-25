@@ -8,7 +8,7 @@ Beginners need to know about SASS
    >\$main-fonts: Arial, sans-serif; 
    
    \/\/ To use variables:
-    ><span style="color:red;"> h1 </span>\{
+    > h1 \{
       font-family: \$main-fonts;
    \}
    
